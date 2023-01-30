@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class ParrotTest {
-    Parrot p = new Parrot();
+    Lab p = new Lab();
 
     /**
      * If p.copy is passed "hello", it should return "hello".
